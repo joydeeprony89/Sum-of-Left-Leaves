@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Left Leaves", "Sum of Left Leaves\Sum of Left Leaves.csproj", "{F7ABACD7-10B9-41C2-AF83-19749094C27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7ABACD7-10B9-41C2-AF83-19749094C27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7ABACD7-10B9-41C2-AF83-19749094C27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7ABACD7-10B9-41C2-AF83-19749094C27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7ABACD7-10B9-41C2-AF83-19749094C27D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9366E270-40E9-43DE-8707-77AFECE883E5}
+	EndGlobalSection
+EndGlobal
